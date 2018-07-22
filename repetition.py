@@ -9,7 +9,7 @@ def main():
         k=lis2.count(lis1[1])
         print(k)
     else:
-        pass
+        print(0)
 
 if __name__ == '__main__':
     main()
